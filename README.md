@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Front-End Developer; Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" /></a>
+<img src="https://readme-typing-svg.demolab.com/?lines=Front-End Developer; Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=7230B4 &v Center=true&size=22&pause=1000" /></a>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ How to reach me
 
 <a href="https://www.linkedin.com/in/katya-laso/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/KatyaLJ" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/KatyaLJ" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)"></a>
+  <a href="https://app.slack.com/client/T0NNB6T0R/C0NNB4N5N" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)"></a>
 
 </p>
 
