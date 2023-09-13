@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/108845565/200432596-48357570-1a71-45d5-8828-16a97e233dd2.png"></img>
+
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Front-End Developer; Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=7230B4 &v Center=true&size=22&pause=1000" /></a>
 
